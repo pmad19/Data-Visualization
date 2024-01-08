@@ -1,3 +1,4 @@
+# Design and develop of a data visualization Tool in R
 `Spotify Trends Analysis Tool` contains an analysis of the most listened tracks in Spotify, Apple Music and Deezer in 2023. This tool is designed for answer the following questions:
 
 1. Is there any trend in the music features of the most popular tracks? Which songs are atypical even if they are very listened? 
