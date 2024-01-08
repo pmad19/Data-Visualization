@@ -40,6 +40,8 @@ The two types of interaction crafted to investigate the dynamics of artists' rel
 
 
 ## More
+### Use the app on the cloud
+The app is located in the following url: https://datavisualizationgroup21.shinyapps.io/prctica/
 
 ### Run the App locally
 To run it locally, you'll need to install the latest versions of [ggvis](http://ggvis.rstudio.com), [Shiny](http://shiny.rstudio.com), [dplyr](https://github.com/hadley/dplyr), [lubridate](https://cran.r-project.org/web/packages/lubridate), [cluster](https://cran.r-project.org/web/packages/cluster), [DT](https://cran.r-project.org/web/packages/DT), [shinyjs](https://cran.r-project.org/web/packages/shinyjs), [tidyr](https://cran.r-project.org/web/packages/tidyr), [shinythemes](https://cran.r-project.org/web/packages/shinythemes), [dbscan](https://cran.r-project.org/web/packages/dbscan), 
